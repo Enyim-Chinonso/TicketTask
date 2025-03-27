@@ -1,0 +1,50 @@
+/* ticket coding */
+#ticket {
+    position: relative;
+}
+
+#img-contents img{
+position: absolute;
+top: 8%;
+left: 33%;
+}
+
+#img-contents p {
+    position: absolute;
+    top: 20%;
+    left: 36%;
+}
+/* ticket coding */
+
+
+/* ticket avatar */
+#ava img{
+    position: absolute;
+    top: 65%;
+    left: 33%;
+    border-radius: 5px;
+}
+#ava h4 {
+    position: absolute;
+    top: 68%;
+    left: 39%;
+    font-size: 14px;
+}
+#ava p {
+    position: absolute;
+    top: 80%;
+    left: 39%;
+    font-size: 10px;
+}
+/* ticket avatar */
+
+#vertical p {
+writing-mode: vertical-rl;
+position: absolute;
+top: 38%;
+left: 62%; 
+}
+
+
+
+
